@@ -18,4 +18,4 @@ similar to early AI systems.
 2. Run: `java LibraryChatbot`
 
 ### Output
-Output screenshot is available in the `screenshots` folder.
+Output screenshot is available in the `Output` folder.
